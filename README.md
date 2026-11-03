@@ -5,6 +5,9 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+> 🌐 **Try it live:** https://learn-korean-level1.netlify.app/
+> No sign-up and no API key. Progress is saved in your browser.
+
 An interactive, modern web application designed for mastering **Korean Level 1 (Beginner / TOPIK I Foundations)**. From the Hangul alphabet and dual numbering systems to verb conjugations, grammar patterns, situational dialogues, and quizzes with native text-to-speech audio pronunciation.
 
 ---
