@@ -12,6 +12,9 @@ An interactive, modern web application designed for mastering **Korean Level 1 (
 
 ---
 
+## Why I built it
+I'm learning Korean at Level 1 (TOPIK I) and wanted one place for Hangul, numbers, verbs, grammar patterns and practice quizzes with audio. I built this app, with AI assistance (Google AI Studio / Antigravity), to study from and to practise shipping a complete front-end project.
+
 ## 🌟 Key Features
 
 ### 🔤 1. Hangul (한글) Alphabet
