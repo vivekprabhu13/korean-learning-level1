@@ -1,0 +1,2764 @@
+{
+ "hangeul": {
+  "consonants": [
+   {
+    "char": "ㄱ",
+    "rom": "g/k"
+   },
+   {
+    "char": "ㄴ",
+    "rom": "n"
+   },
+   {
+    "char": "ㄷ",
+    "rom": "d/t"
+   },
+   {
+    "char": "ㄹ",
+    "rom": "r/l"
+   },
+   {
+    "char": "ㅁ",
+    "rom": "m"
+   },
+   {
+    "char": "ㅂ",
+    "rom": "b/p"
+   },
+   {
+    "char": "ㅅ",
+    "rom": "s"
+   },
+   {
+    "char": "ㅇ",
+    "rom": "ng"
+   },
+   {
+    "char": "ㅈ",
+    "rom": "j"
+   },
+   {
+    "char": "ㅊ",
+    "rom": "ch"
+   },
+   {
+    "char": "ㅋ",
+    "rom": "k"
+   },
+   {
+    "char": "ㅌ",
+    "rom": "t"
+   },
+   {
+    "char": "ㅍ",
+    "rom": "p"
+   },
+   {
+    "char": "ㅎ",
+    "rom": "h"
+   }
+  ],
+  "doubleConsonants": [
+   {
+    "char": "ㄲ",
+    "rom": "kk"
+   },
+   {
+    "char": "ㄸ",
+    "rom": "tt"
+   },
+   {
+    "char": "ㅃ",
+    "rom": "pp"
+   },
+   {
+    "char": "ㅆ",
+    "rom": "ss"
+   },
+   {
+    "char": "ㅉ",
+    "rom": "jj"
+   }
+  ],
+  "vowels": [
+   {
+    "char": "ㅏ",
+    "rom": "a"
+   },
+   {
+    "char": "ㅑ",
+    "rom": "ya"
+   },
+   {
+    "char": "ㅓ",
+    "rom": "eo"
+   },
+   {
+    "char": "ㅕ",
+    "rom": "yeo"
+   },
+   {
+    "char": "ㅗ",
+    "rom": "o"
+   },
+   {
+    "char": "ㅛ",
+    "rom": "yo"
+   },
+   {
+    "char": "ㅜ",
+    "rom": "u"
+   },
+   {
+    "char": "ㅠ",
+    "rom": "yu"
+   },
+   {
+    "char": "ㅡ",
+    "rom": "eu"
+   },
+   {
+    "char": "ㅣ",
+    "rom": "i"
+   }
+  ],
+  "compoundVowels": [
+   {
+    "char": "ㅐ",
+    "rom": "ae"
+   },
+   {
+    "char": "ㅒ",
+    "rom": "yae"
+   },
+   {
+    "char": "ㅔ",
+    "rom": "e"
+   },
+   {
+    "char": "ㅖ",
+    "rom": "ye"
+   },
+   {
+    "char": "ㅘ",
+    "rom": "wa"
+   },
+   {
+    "char": "ㅙ",
+    "rom": "wae"
+   },
+   {
+    "char": "ㅚ",
+    "rom": "oe"
+   },
+   {
+    "char": "ㅝ",
+    "rom": "wo"
+   },
+   {
+    "char": "ㅞ",
+    "rom": "wu"
+   },
+   {
+    "char": "ㅟ",
+    "rom": "wi"
+   },
+   {
+    "char": "ㅢ",
+    "rom": "ui"
+   }
+  ]
+ },
+ "numbers": {
+  "sino": [
+   "일",
+   "이",
+   "삼",
+   "사",
+   "오",
+   "육",
+   "칠",
+   "팔",
+   "구",
+   "십",
+   "십일",
+   "십이",
+   "십삼",
+   "십사",
+   "십오",
+   "이십",
+   "삼십",
+   "사십",
+   "오십",
+   "육십",
+   "칠십",
+   "팔십",
+   "구십",
+   "백",
+   "천"
+  ],
+  "native": [
+   "하나",
+   "둘",
+   "셋",
+   "넷",
+   "다섯",
+   "여섯",
+   "일곱",
+   "여덟",
+   "아홉",
+   "열",
+   "열하나",
+   "열둘",
+   "열셋",
+   "열넷",
+   "열다섯",
+   "스물",
+   "서른",
+   "마흔",
+   "쉰",
+   "예순",
+   "일흔",
+   "여든",
+   "아흔",
+   "온",
+   "즈믄"
+  ],
+  "usage": [
+   {
+    "category": "Phone Numbers (Sino)",
+    "examples": [
+     "010-1234-5678 (공일공 일이삼사 오육칠팔)",
+     "02-987-6543 (공이 구팔칠 육오사삼)"
+    ]
+   },
+   {
+    "category": "Prices (Sino + 원)",
+    "examples": [
+     "1,000원 (천 원)",
+     "5,500원 (오천오백 원)"
+    ]
+   },
+   {
+    "category": "Time (Native Hour, Sino Min)",
+    "examples": [
+     "3시 20분 (세 시 이십 분)",
+     "12시 30분 (열두 시 삼십 분)"
+    ]
+   },
+   {
+    "category": "Dates/Birthdays (Sino)",
+    "examples": [
+     "2023년 5월 10일 (이천이십삼년 오월 십일)",
+     "1995년 10월 25일 (천구백구십오년 시월 이십오일)"
+    ]
+   }
+  ],
+  "counters": [
+   {
+    "category": "Things - 개",
+    "examples": [
+     "사과 2개 (two apples)",
+     "의자 1개 (one chair)"
+    ]
+   },
+   {
+    "category": "People - 명",
+    "examples": [
+     "학생 3명 (three students)",
+     "친구 5명 (five friends)"
+    ]
+   },
+   {
+    "category": "Books - 권",
+    "examples": [
+     "책 4권 (four books)",
+     "잡지 2권 (two magazines)"
+    ]
+   },
+   {
+    "category": "Bottles - 병",
+    "examples": [
+     "물 1병 (one bottle of water)",
+     "맥주 6병 (six bottles of beer)"
+    ]
+   },
+   {
+    "category": "Clothing - 벌",
+    "examples": [
+     "옷 2벌 (two sets of clothes)",
+     "양복 1벌 (one suit)"
+    ]
+   },
+   {
+    "category": "Days - 일",
+    "examples": [
+     "3일 (three days)",
+     "10일 (ten days)"
+    ]
+   },
+   {
+    "category": "Months - 월",
+    "examples": [
+     "2개월 (two months)",
+     "6개월 (six months)"
+    ]
+   },
+   {
+    "category": "Years - 년",
+    "examples": [
+     "1년 (one year)",
+     "10년 (ten years)"
+    ]
+   }
+  ],
+  "nativeNote": "온 (100) and 즈믄 (1,000) are rarely used; Sino-Korean 백 and 천 are used instead."
+ },
+ "directions": {
+  "spatial": [
+   {
+    "term": "Right",
+    "kor": "오른쪽"
+   },
+   {
+    "term": "Left",
+    "kor": "왼쪽"
+   },
+   {
+    "term": "Front",
+    "kor": "앞"
+   },
+   {
+    "term": "Besides",
+    "kor": "옆"
+   },
+   {
+    "term": "Inside",
+    "kor": "안"
+   },
+   {
+    "term": "Outside",
+    "kor": "밖"
+   },
+   {
+    "term": "On/Above",
+    "kor": "위"
+   },
+   {
+    "term": "Between",
+    "kor": "사이"
+   },
+   {
+    "term": "Under",
+    "kor": "아래/밑"
+   }
+  ],
+  "timeDays": [
+   "Monday (월요일)",
+   "Tuesday (화요일)",
+   "Wednesday (수요일)",
+   "Thursday (목요일)",
+   "Friday (금요일)",
+   "Saturday (토요일)",
+   "Sunday (일요일)"
+  ],
+  "timePeriods": [
+   "Forenoon (오전)",
+   "A.M. (오전)",
+   "Afternoon (오후)",
+   "P.M. (오후)",
+   "Morning (아침)",
+   "Lunchtime (점심)",
+   "Noon (정오)",
+   "Evening (저녁)",
+   "Night (밤)",
+   "Hour (시)",
+   "Minute (분)"
+  ],
+  "timeRelative": [
+   "Day (일/날)",
+   "Yesterday (어제)",
+   "Today (오늘)",
+   "Tomorrow (내일)",
+   "Week (주)",
+   "Last week (지난주)",
+   "This week (이번 주)",
+   "Next week (다음 주)",
+   "Month (달)",
+   "Last month (지난달)",
+   "This month (이번 달)",
+   "Next month (다음 달)",
+   "Year (해/년)",
+   "Last year (작년)",
+   "This year (올해)",
+   "Next year (내년)",
+   "Ago (전)",
+   "Before (전)"
+  ]
+ },
+ "verbs": [
+  {
+   "id": 1,
+   "korean": "이다",
+   "definition": "to be (am/is/are)",
+   "image": "/assets/verbs/1.png",
+   "conjugations": {
+    "dict": "이다",
+    "present": "이에요 / 예요",
+    "past": "이었어요 / 였어요",
+    "future": "일 거예요"
+   }
+  },
+  {
+   "id": 2,
+   "korean": "아니다",
+   "definition": "to not be",
+   "image": "/assets/verbs/2.png",
+   "conjugations": {
+    "dict": "아니다",
+    "present": "아니에요",
+    "past": "아니었어요",
+    "future": "아닐 거예요"
+   }
+  },
+  {
+   "id": 3,
+   "korean": "있다",
+   "definition": "to have / to exist",
+   "image": "/assets/verbs/3.png",
+   "conjugations": {
+    "dict": "있다",
+    "present": "있어요",
+    "past": "있었어요",
+    "future": "있을 거예요"
+   }
+  },
+  {
+   "id": 4,
+   "korean": "없다",
+   "definition": "to not have / not exist",
+   "image": "/assets/verbs/4.png",
+   "conjugations": {
+    "dict": "없다",
+    "present": "없어요",
+    "past": "없었어요",
+    "future": "없을 거예요"
+   }
+  },
+  {
+   "id": 5,
+   "korean": "하다",
+   "definition": "to do",
+   "conjugations": {
+    "dict": "하다",
+    "present": "해요",
+    "past": "했어요",
+    "future": "할 거예요"
+   }
+  },
+  {
+   "id": 6,
+   "korean": "가다",
+   "definition": "to go",
+   "conjugations": {
+    "dict": "가다",
+    "present": "가요",
+    "past": "갔어요",
+    "future": "갈 거예요"
+   }
+  },
+  {
+   "id": 7,
+   "korean": "오다",
+   "definition": "to come",
+   "conjugations": {
+    "dict": "오다",
+    "present": "와요",
+    "past": "왔어요",
+    "future": "올 거예요"
+   }
+  },
+  {
+   "id": 8,
+   "korean": "먹다",
+   "definition": "to eat",
+   "conjugations": {
+    "dict": "먹다",
+    "present": "먹어요",
+    "past": "먹었어요",
+    "future": "먹을 거예요"
+   }
+  },
+  {
+   "id": 9,
+   "korean": "마시다",
+   "definition": "to drink",
+   "conjugations": {
+    "dict": "마시다",
+    "present": "마셔요",
+    "past": "마셨어요",
+    "future": "마실 거예요"
+   }
+  },
+  {
+   "id": 10,
+   "korean": "보다",
+   "definition": "to see / watch",
+   "conjugations": {
+    "dict": "보다",
+    "present": "봐요",
+    "past": "봤어요",
+    "future": "볼 거예요"
+   }
+  },
+  {
+   "id": 11,
+   "korean": "자다",
+   "definition": "to sleep",
+   "conjugations": {
+    "dict": "자다",
+    "present": "자요",
+    "past": "잤어요",
+    "future": "잘 거예요"
+   }
+  },
+  {
+   "id": 12,
+   "korean": "일하다",
+   "definition": "to work",
+   "conjugations": {
+    "dict": "일하다",
+    "present": "일해요",
+    "past": "일했어요",
+    "future": "일할 거예요"
+   }
+  },
+  {
+   "id": 13,
+   "korean": "공부하다",
+   "definition": "to study",
+   "conjugations": {
+    "dict": "공부하다",
+    "present": "공부해요",
+    "past": "공부했어요",
+    "future": "공부할 거예요"
+   }
+  },
+  {
+   "id": 14,
+   "korean": "운동하다",
+   "definition": "to exercise",
+   "conjugations": {
+    "dict": "운동하다",
+    "present": "운동해요",
+    "past": "운동했어요",
+    "future": "운동할 거예요"
+   }
+  },
+  {
+   "id": 15,
+   "korean": "만나다",
+   "definition": "to meet",
+   "conjugations": {
+    "dict": "만나다",
+    "present": "만나요",
+    "past": "만났어요",
+    "future": "만날 거예요"
+   }
+  },
+  {
+   "id": 16,
+   "korean": "사다",
+   "definition": "to buy",
+   "conjugations": {
+    "dict": "사다",
+    "present": "사요",
+    "past": "샀어요",
+    "future": "살 거예요"
+   }
+  },
+  {
+   "id": 17,
+   "korean": "살다",
+   "definition": "to live",
+   "conjugations": {
+    "dict": "살다",
+    "present": "살아요",
+    "past": "살았어요",
+    "future": "살 거예요"
+   }
+  },
+  {
+   "id": 18,
+   "korean": "알다",
+   "definition": "to know",
+   "conjugations": {
+    "dict": "알다",
+    "present": "알아요",
+    "past": "알았어요",
+    "future": "알 거예요"
+   }
+  },
+  {
+   "id": 19,
+   "korean": "모르다",
+   "definition": "to not know",
+   "conjugations": {
+    "dict": "모르다",
+    "present": "몰라요",
+    "past": "몰랐어요",
+    "future": "모를 거예요"
+   }
+  },
+  {
+   "id": 20,
+   "korean": "좋아하다",
+   "definition": "to like",
+   "conjugations": {
+    "dict": "좋아하다",
+    "present": "좋아해요",
+    "past": "좋아했어요",
+    "future": "좋아할 거예요"
+   }
+  },
+  {
+   "id": 21,
+   "korean": "사랑하다",
+   "definition": "to love",
+   "conjugations": {
+    "dict": "사랑하다",
+    "present": "사랑해요",
+    "past": "사랑했어요",
+    "future": "사랑할 거예요"
+   }
+  },
+  {
+   "id": 22,
+   "korean": "이야기하다",
+   "definition": "to talk / chat",
+   "conjugations": {
+    "dict": "이야기하다",
+    "present": "이야기해요",
+    "past": "이야기했어요",
+    "future": "이야기할 거예요"
+   }
+  },
+  {
+   "id": 23,
+   "korean": "듣다",
+   "definition": "to listen / hear",
+   "conjugations": {
+    "dict": "듣다",
+    "present": "들어요",
+    "past": "들었어요",
+    "future": "들을 거예요"
+   }
+  },
+  {
+   "id": 24,
+   "korean": "걷다",
+   "definition": "to walk",
+   "conjugations": {
+    "dict": "걷다",
+    "present": "걸어요",
+    "past": "걸었어요",
+    "future": "걸을 거예요"
+   }
+  },
+  {
+   "id": 25,
+   "korean": "쓰다",
+   "definition": "to write / use",
+   "conjugations": {
+    "dict": "쓰다",
+    "present": "써요",
+    "past": "썼어요",
+    "future": "쓸 거예요"
+   }
+  },
+  {
+   "id": 26,
+   "korean": "주다",
+   "definition": "to give",
+   "conjugations": {
+    "dict": "주다",
+    "present": "줘요",
+    "past": "줬어요",
+    "future": "줄 거예요"
+   }
+  },
+  {
+   "id": 27,
+   "korean": "배우다",
+   "definition": "to learn",
+   "conjugations": {
+    "dict": "배우다",
+    "present": "배워요",
+    "past": "배웠어요",
+    "future": "배울 거예요"
+   }
+  },
+  {
+   "id": 28,
+   "korean": "기다리다",
+   "definition": "to wait",
+   "conjugations": {
+    "dict": "기다리다",
+    "present": "기다려요",
+    "past": "기다렸어요",
+    "future": "기다릴 거예요"
+   }
+  },
+  {
+   "id": 29,
+   "korean": "타다",
+   "definition": "to ride",
+   "conjugations": {
+    "dict": "타다",
+    "present": "타요",
+    "past": "탔어요",
+    "future": "탈 거예요"
+   }
+  },
+  {
+   "id": 30,
+   "korean": "만들다",
+   "definition": "to make",
+   "conjugations": {
+    "dict": "만들다",
+    "present": "만들어요",
+    "past": "만들었어요",
+    "future": "만들 거예요"
+   }
+  },
+  {
+   "id": 31,
+   "korean": "좋다",
+   "definition": "to be good",
+   "conjugations": {
+    "dict": "좋다",
+    "present": "좋아요",
+    "past": "좋았어요",
+    "future": "좋을 거예요"
+   }
+  },
+  {
+   "id": 32,
+   "korean": "나쁘다",
+   "definition": "to be bad",
+   "conjugations": {
+    "dict": "나쁘다",
+    "present": "나빠요",
+    "past": "나빴어요",
+    "future": "나쁠 거예요"
+   }
+  },
+  {
+   "id": 33,
+   "korean": "크다",
+   "definition": "to be big",
+   "conjugations": {
+    "dict": "크다",
+    "present": "커요",
+    "past": "컸어요",
+    "future": "클 거예요"
+   }
+  },
+  {
+   "id": 34,
+   "korean": "작다",
+   "definition": "to be small",
+   "conjugations": {
+    "dict": "작다",
+    "present": "작아요",
+    "past": "작았어요",
+    "future": "작을 거예요"
+   }
+  },
+  {
+   "id": 35,
+   "korean": "많다",
+   "definition": "to be many / a lot",
+   "conjugations": {
+    "dict": "많다",
+    "present": "많아요",
+    "past": "많았어요",
+    "future": "많을 거예요"
+   }
+  },
+  {
+   "id": 36,
+   "korean": "맛있다",
+   "definition": "to be delicious",
+   "conjugations": {
+    "dict": "맛있다",
+    "present": "맛있어요",
+    "past": "맛있었어요",
+    "future": "맛있을 거예요"
+   }
+  },
+  {
+   "id": 37,
+   "korean": "맛없다",
+   "definition": "to be tasteless",
+   "conjugations": {
+    "dict": "맛없다",
+    "present": "맛없어요",
+    "past": "맛없었어요",
+    "future": "맛없을 거예요"
+   }
+  },
+  {
+   "id": 38,
+   "korean": "재미있다",
+   "definition": "to be fun / interesting",
+   "conjugations": {
+    "dict": "재미있다",
+    "present": "재미있어요",
+    "past": "재미있었어요",
+    "future": "재미있을 거예요"
+   }
+  },
+  {
+   "id": 39,
+   "korean": "바쁘다",
+   "definition": "to be busy",
+   "conjugations": {
+    "dict": "바쁘다",
+    "present": "바빠요",
+    "past": "바빴어요",
+    "future": "바쁠 거예요"
+   }
+  },
+  {
+   "id": 40,
+   "korean": "예쁘다",
+   "definition": "to be pretty",
+   "conjugations": {
+    "dict": "예쁘다",
+    "present": "예뻐요",
+    "past": "예뻤어요",
+    "future": "예쁠 거예요"
+   }
+  },
+  {
+   "id": 41,
+   "korean": "아프다",
+   "definition": "to be sick / hurt",
+   "conjugations": {
+    "dict": "아프다",
+    "present": "아파요",
+    "past": "아팠어요",
+    "future": "아플 거예요"
+   }
+  },
+  {
+   "id": 42,
+   "korean": "피곤하다",
+   "definition": "to be tired",
+   "conjugations": {
+    "dict": "피곤하다",
+    "present": "피곤해요",
+    "past": "피곤했어요",
+    "future": "피곤할 거예요"
+   }
+  },
+  {
+   "id": 43,
+   "korean": "비싸다",
+   "definition": "to be expensive",
+   "conjugations": {
+    "dict": "비싸다",
+    "present": "비싸요",
+    "past": "비쌌어요",
+    "future": "비쌀 거예요"
+   }
+  },
+  {
+   "id": 44,
+   "korean": "싸다",
+   "definition": "to be cheap",
+   "conjugations": {
+    "dict": "싸다",
+    "present": "싸요",
+    "past": "쌌어요",
+    "future": "쌀 거예요"
+   }
+  },
+  {
+   "id": 45,
+   "korean": "덥다",
+   "definition": "to be hot (weather)",
+   "conjugations": {
+    "dict": "덥다",
+    "present": "더워요",
+    "past": "더웠어요",
+    "future": "더울 거예요"
+   }
+  },
+  {
+   "id": 46,
+   "korean": "춥다",
+   "definition": "to be cold (weather)",
+   "conjugations": {
+    "dict": "춥다",
+    "present": "추워요",
+    "past": "추웠어요",
+    "future": "추울 거예요"
+   }
+  },
+  {
+   "id": 47,
+   "korean": "어렵다",
+   "definition": "to be difficult",
+   "conjugations": {
+    "dict": "어렵다",
+    "present": "어려워요",
+    "past": "어려웠어요",
+    "future": "어려울 거예요"
+   }
+  },
+  {
+   "id": 48,
+   "korean": "쉽다",
+   "definition": "to be easy",
+   "conjugations": {
+    "dict": "쉽다",
+    "present": "쉬워요",
+    "past": "쉬웠어요",
+    "future": "쉬울 거예요"
+   }
+  },
+  {
+   "id": 49,
+   "korean": "맵다",
+   "definition": "to be spicy",
+   "conjugations": {
+    "dict": "맵다",
+    "present": "매워요",
+    "past": "매웠어요",
+    "future": "매울 거예요"
+   }
+  },
+  {
+   "id": 50,
+   "korean": "괜찮다",
+   "definition": "to be okay / fine",
+   "conjugations": {
+    "dict": "괜찮다",
+    "present": "괜찮아요",
+    "past": "괜찮았어요",
+    "future": "괜찮을 거예요"
+   }
+  }
+ ],
+ "grammar1a": [
+  {
+   "title": "Topic Particle (은/는)",
+   "explanation": "Marks the topic of the sentence.",
+   "examples": [
+    "저는 학생이에요. (I am a student.)",
+    "이것은 책이에요. (This is a book.)"
+   ]
+  },
+  {
+   "title": "Subject Particle (이/가)",
+   "explanation": "Marks the subject of the sentence.",
+   "examples": [
+    "비가 와요. (It is raining.)",
+    "친구가 가요. (My friend is going.)"
+   ]
+  },
+  {
+   "title": "Object Particle (을/를)",
+   "explanation": "Marks the object of the verb.",
+   "examples": [
+    "밥을 먹어요. (I eat rice.)",
+    "영화를 봐요. (I watch a movie.)"
+   ]
+  },
+  {
+   "title": "Location/Time Particle (~에)",
+   "explanation": "Indicates time or static location.",
+   "examples": [
+    "학교에 가요. (I go to school.)",
+    "3시에 만나요. (Let's meet at 3.)"
+   ]
+  },
+  {
+   "title": "Action Location Particle (~에서)",
+   "explanation": "Indicates where an action takes place.",
+   "examples": [
+    "도서관에서 공부해요. (I study at the library.)",
+    "집에서 자요. (I sleep at home.)"
+   ]
+  },
+  {
+   "title": "Also/Too (도)",
+   "explanation": "Means 'also' or 'too'.",
+   "examples": [
+    "저도 학생이에요. (I am also a student.)",
+    "사과도 있어요. (There are apples too.)"
+   ]
+  },
+  {
+   "title": "Direction/Means ((으)로)",
+   "explanation": "Indicates direction or means/method.",
+   "examples": [
+    "버스로 가요. (I go by bus.)",
+    "오른쪽으로 가세요. (Go to the right.)"
+   ]
+  },
+  {
+   "title": "From-To (부터-까지)",
+   "explanation": "Indicates a range of time.",
+   "examples": [
+    "9시부터 6시까지 일해요. (I work from 9 to 6.)",
+    "월요일부터 금요일까지 (From Monday to Friday)"
+   ]
+  },
+  {
+   "title": "From-To (에서-까지)",
+   "explanation": "Indicates a range of location.",
+   "examples": [
+    "집에서 학교까지 걸어요. (I walk from home to school.)",
+    "서울에서 부산까지 (From Seoul to Busan)"
+   ]
+  }
+ ],
+ "grammar1b": [
+  {
+   "title": "And (하고)",
+   "explanation": "Connects two or more nouns together.",
+   "examples": [
+    "빵하고 우유를 먹어요. (I eat bread and milk.)",
+    "친구하고 같이 가요. (I go together with a friend.)"
+   ]
+  },
+  {
+   "title": "Or (거나)",
+   "explanation": "Connects two or more verbs or adjectives.",
+   "examples": [
+    "주말에 잠을 자거나 영화를 봐요. (I sleep or watch a movie on weekends.)",
+    "싸거나 예뻐요. (It is cheap or pretty.)"
+   ]
+  },
+  {
+   "title": "Adjective Ending (~은)",
+   "explanation": "Used to modify a noun with an adjective.",
+   "examples": [
+    "작은 가방 (A small bag)",
+    "좋은 사람 (A good person)"
+   ]
+  },
+  {
+   "title": "Or (나/이나)",
+   "explanation": "Connects two or more nouns together.",
+   "examples": [
+    "커피나 차를 마셔요. (I drink coffee or tea.)",
+    "빵이나 김밥을 먹어요. (I eat bread or kimbap.)"
+   ]
+  },
+  {
+   "title": "Because / So (아/어서)",
+   "explanation": "Connects two clauses to show reason or cause.",
+   "examples": [
+    "배가 아파서 병원에 가요. (I have a stomachache, so I go to the hospital.)",
+    "비가 와서 집에 있어요. (It's raining, so I'm at home.)"
+   ]
+  }
+ ],
+ "verbForms1a": [
+  {
+   "form": "~(으)세요",
+   "explanation": "Polite imperative (Please do...)",
+   "examples": [
+    "오세요 (Please come)",
+    "앉으세요 (Please sit)"
+   ]
+  },
+  {
+   "form": "~지 마세요",
+   "explanation": "Polite negative imperative (Please don't...)",
+   "examples": [
+    "가지 마세요 (Please don't go)",
+    "먹지 마세요 (Please don't eat)"
+   ]
+  },
+  {
+   "form": "~고 싶어요",
+   "explanation": "Expresses desire (I want to...)",
+   "examples": [
+    "자고 싶어요 (I want to sleep)",
+    "여행하고 싶어요 (I want to travel)"
+   ]
+  },
+  {
+   "form": "~(스)ㅂ니다",
+   "explanation": "Formal polite ending",
+   "examples": [
+    "반갑습니다 (Nice to meet you)",
+    "감사합니다 (Thank you)"
+   ]
+  }
+ ],
+ "verbForms1b": [
+  {
+   "form": "~을 거예요",
+   "explanation": "Future Tense (I will...)",
+   "examples": [
+    "내일 공부할 거예요. (I will study tomorrow.)",
+    "영화를 볼 거예요. (I will watch a movie.)"
+   ]
+  },
+  {
+   "form": "~을 수 있어요/없어요",
+   "explanation": "Can / Cannot (Ability or Possibility)",
+   "examples": [
+    "수영을 할 수 있어요. (I can swim.)",
+    "매운 음식을 먹을 수 없어요. (I can't eat spicy food.)"
+   ]
+  },
+  {
+   "form": "~지 않아요",
+   "explanation": "General Negation (Doesn't / Isn't)",
+   "examples": [
+    "학교에 가지 않아요. (I don't go to school.)",
+    "맵지 않아요. (It is not spicy.)"
+   ]
+  },
+  {
+   "form": "~아/어 보세요",
+   "explanation": "Try doing / Suggestion",
+   "examples": [
+    "먹어 보세요. (Please try eating.)",
+    "한국에 가 보세요. (Please try going to Korea.)"
+   ]
+  },
+  {
+   "form": "~으셨어요",
+   "explanation": "Honorific Past Form (Polite way to ask about the past)",
+   "examples": [
+    "어제 뭐 하셨어요? (What did you do yesterday? - polite)",
+    "선생님께서 오셨어요. (The teacher came. - polite)"
+   ]
+  },
+  {
+   "form": "~을 줄 알아요/몰라요",
+   "explanation": "Know / Don't know how to",
+   "examples": [
+    "운전할 줄 알아요. (I know how to drive.)",
+    "한국말을 할 줄 몰라요. (I don't know how to speak Korean.)"
+   ]
+  },
+  {
+   "form": "~아/어야 해요",
+   "explanation": "Must / Have to (Obligation)",
+   "examples": [
+    "지금 가야 해요. (I must go now.)",
+    "일찍 일어나야 해요. (I have to wake up early.)"
+   ]
+  },
+  {
+   "form": "~을까요?",
+   "explanation": "Shall we? / Should I?",
+   "examples": [
+    "내일 만날까요? (Shall we meet tomorrow?)",
+    "무엇을 먹을까요? (What shall we eat?)"
+   ]
+  },
+  {
+   "form": "~고",
+   "explanation": "Connecting actions or states (And)",
+   "examples": [
+    "밥을 먹고 커피를 마셔요. (I eat and drink coffee.)",
+    "어제 친구를 만났고 영화를 봤어요. (Yesterday I met a friend and watched a movie.)"
+   ]
+  },
+  {
+   "form": "~아/어야 되다",
+   "explanation": "Must / Have to (Obligation/Necessity)",
+   "examples": [
+    "숙제를 해야 돼요. (I must do my homework.)",
+    "일찍 가야 돼요. (I have to go early.)"
+   ]
+  },
+  {
+   "form": "못 ~",
+   "explanation": "Cannot / Unable to (Inability)",
+   "examples": [
+    "김치를 못 먹어요. (I cannot eat kimchi.)",
+    "오늘 학교에 못 가요. (I cannot go to school today.)"
+   ]
+  },
+  {
+   "form": "~(으)려고 해요",
+   "explanation": "Intend to / Plan to (Intention)",
+   "examples": [
+    "다음 달에 한국에 가려고 해요. (I plan to go to Korea next month.)",
+    "내일 공부하려고 해요. (I intend to study tomorrow.)"
+   ]
+  },
+  {
+   "form": "~아/어 봤어요",
+   "explanation": "Have tried / Have done (Experience)",
+   "examples": [
+    "비빔밥을 먹어 봤어요. (I have tried eating bibimbap.)",
+    "한국에 가 봤어요. (I have been to Korea.)"
+   ]
+  },
+  {
+   "form": "~아/어 주세요",
+   "explanation": "Please do (Requesting help or action for the speaker)",
+   "examples": [
+    "도와주세요. (Please help me.)",
+    "가르쳐 주세요. (Please teach me.)"
+   ]
+  }
+ ],
+ "vocabulary": {
+  "countries": [
+   "Germany (독일)",
+   "Russia (러시아)",
+   "The United States (미국)",
+   "Vietnam (베트남)",
+   "Japan (일본)",
+   "China (중국)",
+   "Thailand (태국)",
+   "Korea (한국)"
+  ],
+  "occupations": [
+   "Teacher (선생님)",
+   "Doctor (의사)",
+   "Student (학생)",
+   "Office Worker (회사원)"
+  ],
+  "stationary": [
+   "Ball Pen (볼펜)",
+   "Dictionary (사전)",
+   "Pencil (연필)",
+   "Chair (의자)",
+   "Eraser (지우개)",
+   "Book (책)",
+   "Desk (책상)",
+   "Pencil Case (필통)"
+  ],
+  "belongings": [
+   "Bag (가방)",
+   "Dress Shoes (구두)",
+   "High Heel Shoes (하이힐)",
+   "Hat (모자)",
+   "Clock (시계)",
+   "Watch (손목시계)",
+   "Glasses (안경)"
+  ],
+  "machines": [
+   "Photocopier (복사기)",
+   "Electronic Dictionary (전자사전)",
+   "Camera (카메라)",
+   "Computer (컴퓨터)",
+   "Mobile Phone (휴대전화/핸드폰)"
+  ],
+  "beverages": [
+   "Green Tea (녹차)",
+   "Lemon Tea (레몬차)",
+   "Beer (맥주)",
+   "Water (물)",
+   "Cider (사이다)",
+   "Soda (탄산음료)",
+   "Orange Juice (오렌지 주스)",
+   "Coffee (커피)",
+   "Cola (콜라)"
+  ],
+  "places": [
+   "Classroom (교실)",
+   "Cinema (영화관/극장)",
+   "Theater (극장)",
+   "Embassy (대사관)",
+   "Library (도서관)",
+   "Stationary Store (문구점)",
+   "Hospital (병원)",
+   "Bookstore (서점)",
+   "Swimming Pool (수영장)",
+   "Restaurant (식당)",
+   "Bank (은행)",
+   "School (학교)",
+   "Washroom (화장실)",
+   "Restroom (화장실)",
+   "Company (회사)"
+  ]
+ },
+ "quizzes": {
+  "directions": [
+   {
+    "id": 1,
+    "question": "What is 'Right' in Korean?",
+    "options": [
+     "왼쪽",
+     "오른쪽",
+     "위",
+     "아래"
+    ],
+    "answer": "오른쪽"
+   },
+   {
+    "id": 2,
+    "question": "What is 'In front'?",
+    "options": [
+     "뒤",
+     "앞",
+     "옆",
+     "안"
+    ],
+    "answer": "앞"
+   },
+   {
+    "id": 3,
+    "question": "Translate: 'School is next to the bank.'",
+    "options": [
+     "학교가 은행 옆에 있어요.",
+     "학교가 은행 안에 있어요.",
+     "학교가 은행 위에 있어요.",
+     "학교가 은행 뒤에 있어요."
+    ],
+    "answer": "학교가 은행 옆에 있어요."
+   },
+   {
+    "id": 4,
+    "question": "What is 'Inside'?",
+    "options": [
+     "밖",
+     "안",
+     "사이",
+     "밑"
+    ],
+    "answer": "안"
+   },
+   {
+    "id": 5,
+    "question": "What is 'Between'?",
+    "options": [
+     "위",
+     "아래",
+     "사이",
+     "옆"
+    ],
+    "answer": "사이"
+   },
+   {
+    "id": 6,
+    "question": "What is 'Monday'?",
+    "options": [
+     "화요일",
+     "월요일",
+     "수요일",
+     "목요일"
+    ],
+    "answer": "월요일"
+   },
+   {
+    "id": 7,
+    "question": "What is 'Tomorrow'?",
+    "options": [
+     "오늘",
+     "어제",
+     "내일",
+     "모레"
+    ],
+    "answer": "내일"
+   },
+   {
+    "id": 8,
+    "question": "What is 'Yesterday'?",
+    "options": [
+     "내일",
+     "어제",
+     "오늘",
+     "지금"
+    ],
+    "answer": "어제"
+   },
+   {
+    "id": 9,
+    "question": "What is 'Afternoon'?",
+    "options": [
+     "오전",
+     "오후",
+     "밤",
+     "아침"
+    ],
+    "answer": "오후"
+   },
+   {
+    "id": 10,
+    "question": "What is 'Last Year'?",
+    "options": [
+     "내년",
+     "올해",
+     "작년",
+     "이번 년"
+    ],
+    "answer": "작년"
+   }
+  ],
+  "verbs": [
+   {
+    "id": 1,
+    "question": "Translate: 'To eat'",
+    "options": [
+     "가다",
+     "오다",
+     "먹다",
+     "보다"
+    ],
+    "answer": "먹다"
+   },
+   {
+    "id": 2,
+    "question": "Present tense of '가다' (Informal Polite)",
+    "options": [
+     "가요",
+     "갔어요",
+     "갈 거예요",
+     "갑니다"
+    ],
+    "answer": "가요"
+   },
+   {
+    "id": 3,
+    "question": "Past tense of '보다'",
+    "options": [
+     "봐요",
+     "봤어요",
+     "볼 거예요",
+     "봅니다"
+    ],
+    "answer": "봤어요"
+   },
+   {
+    "id": 4,
+    "question": "Future tense of '하다'",
+    "options": [
+     "해요",
+     "했어요",
+     "할 거예요",
+     "합니다"
+    ],
+    "answer": "할 거예요"
+   },
+   {
+    "id": 5,
+    "question": "Translate: 'To go'",
+    "options": [
+     "먹다",
+     "가다",
+     "자다",
+     "입다"
+    ],
+    "answer": "가다"
+   },
+   {
+    "id": 6,
+    "question": "Present tense of '먹다'",
+    "options": [
+     "먹어요",
+     "먹었어요",
+     "먹을 거예요",
+     "먹습니다"
+    ],
+    "answer": "먹어요"
+   },
+   {
+    "id": 7,
+    "question": "Past tense of '가다'",
+    "options": [
+     "가요",
+     "갔어요",
+     "갈 거예요",
+     "갑니다"
+    ],
+    "answer": "갔어요"
+   },
+   {
+    "id": 8,
+    "question": "Future tense of '보다'",
+    "options": [
+     "봐요",
+     "봤어요",
+     "볼 거예요",
+     "봅니다"
+    ],
+    "answer": "볼 거예요"
+   },
+   {
+    "id": 9,
+    "question": "Translate: 'To do'",
+    "options": [
+     "하다",
+     "가다",
+     "오다",
+     "먹다"
+    ],
+    "answer": "하다"
+   },
+   {
+    "id": 10,
+    "question": "Present tense of '보다'",
+    "options": [
+     "봐요",
+     "봤어요",
+     "볼 거예요",
+     "봅니다"
+    ],
+    "answer": "봐요"
+   }
+  ],
+  "grammar1a": [
+   {
+    "id": 1,
+    "question": "Choose the correct particle: 저__ 학생이에요.",
+    "options": [
+     "이",
+     "가",
+     "는",
+     "을"
+    ],
+    "answer": "는"
+   },
+   {
+    "id": 2,
+    "question": "Choose the correct particle: 밥__ 먹어요.",
+    "options": [
+     "이",
+     "가",
+     "은",
+     "을"
+    ],
+    "answer": "을"
+   },
+   {
+    "id": 3,
+    "question": "Translate: 'I go to school.'",
+    "options": [
+     "학교에 가요.",
+     "학교에서 가요.",
+     "학교를 가요.",
+     "학교가 가요."
+    ],
+    "answer": "학교에 가요."
+   },
+   {
+    "id": 4,
+    "question": "Choose the correct particle: 3시__ 만나요.",
+    "options": [
+     "에",
+     "에서",
+     "부터",
+     "까지"
+    ],
+    "answer": "에"
+   },
+   {
+    "id": 5,
+    "question": "Choose the correct particle: 도서관__ 공부해요.",
+    "options": [
+     "에",
+     "에서",
+     "으로",
+     "까지"
+    ],
+    "answer": "에서"
+   },
+   {
+    "id": 6,
+    "question": "What implies 'also'?",
+    "options": [
+     "만",
+     "도",
+     "은",
+     "는"
+    ],
+    "answer": "도"
+   },
+   {
+    "id": 7,
+    "question": "Translate: 'Please give me water.'",
+    "options": [
+     "물 주세요.",
+     "물 가세요.",
+     "물 오세요.",
+     "물 보세요."
+    ],
+    "answer": "물 주세요."
+   },
+   {
+    "id": 8,
+    "question": "Choose the correct imperative: 오__ (Please come)",
+    "options": [
+     "세요",
+     "으세요",
+     "지 마세요",
+     "고 싶어요"
+    ],
+    "answer": "세요"
+   },
+   {
+    "id": 9,
+    "question": "Choose the correct negative imperative: 가__ (Please don't go)",
+    "options": [
+     "지 마세요",
+     "세요",
+     "고 싶어요",
+     "ㅂ니다"
+    ],
+    "answer": "지 마세요"
+   },
+   {
+    "id": 10,
+    "question": "How to say 'I want to eat'?",
+    "options": [
+     "먹으세요",
+     "먹지 마세요",
+     "먹고 싶어요",
+     "먹습니다"
+    ],
+    "answer": "먹고 싶어요"
+   }
+  ],
+  "grammar1b": [
+   {
+    "id": 1,
+    "question": "Future tense of '가다'?",
+    "options": [
+     "가요",
+     "갔어요",
+     "갈 거예요",
+     "갑니다"
+    ],
+    "answer": "갈 거예요"
+   },
+   {
+    "id": 2,
+    "question": "How to say 'I can swim'?",
+    "options": [
+     "수영할 줄 몰라요",
+     "수영하고 싶어요",
+     "수영할 수 있어요",
+     "수영하셨어요"
+    ],
+    "answer": "수영할 수 있어요"
+   },
+   {
+    "id": 3,
+    "question": "Which is correct for 'A pretty bag'?",
+    "options": [
+     "예쁜 가방",
+     "예쁘다 가방",
+     "예쁘 가방",
+     "예뼜던 가방"
+    ],
+    "answer": "예쁜 가방"
+   },
+   {
+    "id": 4,
+    "question": "Negation: 'I don't eat'?",
+    "options": [
+     "먹으세요",
+     "먹지 마세요",
+     "먹지 않아요",
+     "안 먹었어요"
+    ],
+    "answer": "먹지 않아요"
+   },
+   {
+    "id": 5,
+    "question": "Suggestion: 'Try eating'?",
+    "options": [
+     "먹으세요",
+     "먹어 보세요",
+     "먹고 싶어요",
+     "먹을까요?"
+    ],
+    "answer": "먹어 보세요"
+   },
+   {
+    "id": 6,
+    "question": "Polite past: 'What did you do?'",
+    "options": [
+     "뭐 해요?",
+     "뭐 했어요?",
+     "뭐 하셨어요?",
+     "뭐 할 거예요?"
+    ],
+    "answer": "뭐 하셨어요?"
+   },
+   {
+    "id": 7,
+    "question": "Obligation: 'I must go'?",
+    "options": [
+     "가고 싶어요",
+     "갈 수 있어요",
+     "가야 해요",
+     "가 세요"
+    ],
+    "answer": "가야 해요"
+   },
+   {
+    "id": 8,
+    "question": "Connector: 'I sleep or watch a movie'?",
+    "options": [
+     "자고 영화를 봐요",
+     "자거나 영화를 봐요",
+     "자서 영화를 봐요",
+     "자지만 영화를 봐요"
+    ],
+    "answer": "자거나 영화를 봐요"
+   },
+   {
+    "id": 9,
+    "question": "Shall we: 'Shall we meet tomorrow?'",
+    "options": [
+     "내일 만나요",
+     "내일 만났어요",
+     "내일 만날까요?",
+     "내일 만납니다"
+    ],
+    "answer": "내일 만날까요?"
+   },
+   {
+    "id": 10,
+    "question": "And (verbs): 'I eat and drink tea'?",
+    "options": [
+     "먹거나 마셔요",
+     "먹고 마셔요",
+     "먹어서 마셔요",
+     "먹어야 마셔요"
+    ],
+    "answer": "먹고 마셔요"
+   }
+  ],
+  "vocabulary": [
+   {
+    "id": 1,
+    "question": "What is 'Apple'?",
+    "options": [
+     "사과",
+     "배",
+     "포도",
+     "오렌지"
+    ],
+    "answer": "사과"
+   },
+   {
+    "id": 2,
+    "question": "What is 'Teacher'?",
+    "options": [
+     "학생",
+     "선생님",
+     "의사",
+     "회사원"
+    ],
+    "answer": "선생님"
+   },
+   {
+    "id": 3,
+    "question": "What is 'School'?",
+    "options": [
+     "병원",
+     "학교",
+     "은행",
+     "서점"
+    ],
+    "answer": "학교"
+   },
+   {
+    "id": 4,
+    "question": "What is 'Water'?",
+    "options": [
+     "물",
+     "우유",
+     "주스",
+     "커피"
+    ],
+    "answer": "물"
+   },
+   {
+    "id": 5,
+    "question": "What is 'Socks'?",
+    "options": [
+     "양말",
+     "모자",
+     "가방",
+     "신발"
+    ],
+    "answer": "양말"
+   },
+   {
+    "id": 6,
+    "question": "What is 'Desk'?",
+    "options": [
+     "책상",
+     "의자",
+     "침대",
+     "시계"
+    ],
+    "answer": "책상"
+   },
+   {
+    "id": 7,
+    "question": "What is 'Bag'?",
+    "options": [
+     "가방",
+     "지갑",
+     "우산",
+     "안경"
+    ],
+    "answer": "가방"
+   },
+   {
+    "id": 8,
+    "question": "What is 'Korea'?",
+    "options": [
+     "미국",
+     "중국",
+     "일본",
+     "한국"
+    ],
+    "answer": "한국"
+   },
+   {
+    "id": 9,
+    "question": "What is 'Computer'?",
+    "options": [
+     "컴퓨터",
+     "텔레비전",
+     "라디오",
+     "카메라"
+    ],
+    "answer": "컴퓨터"
+   },
+   {
+    "id": 10,
+    "question": "What is 'Hospital'?",
+    "options": [
+     "병원",
+     "약국",
+     "우체국",
+     "경찰서"
+    ],
+    "answer": "병원"
+   }
+  ],
+  "finalQuiz1": [
+   {
+    "id": 1,
+    "question": "Which vowel represents 'a'?",
+    "options": [
+     "ㅏ",
+     "ㅓ",
+     "ㅗ",
+     "ㅜ"
+    ],
+    "answer": "ㅏ"
+   },
+   {
+    "id": 2,
+    "question": "Which consonant represents 'm'?",
+    "options": [
+     "ㄴ",
+     "ㄹ",
+     "ㅁ",
+     "ㅂ"
+    ],
+    "answer": "ㅁ"
+   },
+   {
+    "id": 3,
+    "question": "How do you say 'One' in Sino-Korean?",
+    "options": [
+     "하나 (Hana)",
+     "일 (Il)",
+     "둘 (Dul)",
+     "이 (I)"
+    ],
+    "answer": "일 (Il)"
+   },
+   {
+    "id": 4,
+    "question": "What is '20' in Native Korean?",
+    "options": [
+     "이십 (Isip)",
+     "스물 (Seumul)",
+     "열 (Yeol)",
+     "서른 (Seoreun)"
+    ],
+    "answer": "스물 (Seumul)"
+   },
+   {
+    "id": 5,
+    "question": "Which is correct for '3:30'?",
+    "options": [
+     "세 시 삼십 분",
+     "삼 시 삼십 분",
+     "세 시 반 분",
+     "삼 시 반"
+    ],
+    "answer": "세 시 삼십 분"
+   },
+   {
+    "id": 6,
+    "question": "Counter for bottles?",
+    "options": [
+     "개 (gae)",
+     "명 (myeong)",
+     "병 (byeong)",
+     "잔 (jan)"
+    ],
+    "answer": "병 (byeong)"
+   },
+   {
+    "id": 7,
+    "question": "Sino-Korean number for '100'?",
+    "options": [
+     "백 (Baek)",
+     "천 (Cheon)",
+     "만 (Man)",
+     "십 (Sip)"
+    ],
+    "answer": "백 (Baek)"
+   },
+   {
+    "id": 8,
+    "question": "What does '위' mean?",
+    "options": [
+     "Down",
+     "Left",
+     "Right",
+     "On/Above"
+    ],
+    "answer": "On/Above"
+   },
+   {
+    "id": 9,
+    "question": "Translate 'Right' to Korean.",
+    "options": [
+     "왼쪽",
+     "오른쪽",
+     "앞",
+     "뒤"
+    ],
+    "answer": "오른쪽"
+   },
+   {
+    "id": 10,
+    "question": "Which word means 'Yesterday'?",
+    "options": [
+     "오늘",
+     "내일",
+     "어제",
+     "지금"
+    ],
+    "answer": "어제"
+   },
+   {
+    "id": 11,
+    "question": "What is 'Wednesday' in Korean?",
+    "options": [
+     "월요일",
+     "수요일",
+     "금요일",
+     "일요일"
+    ],
+    "answer": "수요일"
+   },
+   {
+    "id": 12,
+    "question": "Translate 'Next year'.",
+    "options": [
+     "작년",
+     "올해",
+     "내년",
+     "매년"
+    ],
+    "answer": "내년"
+   },
+   {
+    "id": 13,
+    "question": "Meaning of '가다'?",
+    "options": [
+     "To come",
+     "To go",
+     "To eat",
+     "To sleep"
+    ],
+    "answer": "To go"
+   },
+   {
+    "id": 14,
+    "question": "Present tense of '먹다' (to eat)?",
+    "options": [
+     "먹어요",
+     "먹었어요",
+     "먹을 거예요",
+     "먹다"
+    ],
+    "answer": "먹어요"
+   },
+   {
+    "id": 15,
+    "question": "Past tense of '하다' (to do)?",
+    "options": [
+     "해요",
+     "했어요",
+     "할 거예요",
+     "하고"
+    ],
+    "answer": "했어요"
+   },
+   {
+    "id": 16,
+    "question": "Future tense of '보다' (to see)?",
+    "options": [
+     "봐요",
+     "봤어요",
+     "볼 거예요",
+     "보니"
+    ],
+    "answer": "볼 거예요"
+   },
+   {
+    "id": 17,
+    "question": "Meaning of '좋아하다'?",
+    "options": [
+     "To dislike",
+     "To like",
+     "To love",
+     "To hate"
+    ],
+    "answer": "To like"
+   },
+   {
+    "id": 18,
+    "question": "Conjugate '마시다' (to drink) to Present.",
+    "options": [
+     "마셔요",
+     "마셨어요",
+     "마실 거예요",
+     "마시다"
+    ],
+    "answer": "마셔요"
+   },
+   {
+    "id": 19,
+    "question": "'자다' (to sleep) - Past Tense?",
+    "options": [
+     "자요",
+     "잤어요",
+     "잘 거예요",
+     "자고"
+    ],
+    "answer": "잤어요"
+   },
+   {
+    "id": 20,
+    "question": "Which verb means 'to study'?",
+    "options": [
+     "일하다",
+     "공부하다",
+     "운동하다",
+     "노래하다"
+    ],
+    "answer": "공부하다"
+   },
+   {
+    "id": 21,
+    "question": "Meaning of '맛있다'?",
+    "options": [
+     "To be spicy",
+     "To be delicious",
+     "To be hot",
+     "To be cold"
+    ],
+    "answer": "To be delicious"
+   },
+   {
+    "id": 22,
+    "question": "'춥다' (to be cold) - Present Tense?",
+    "options": [
+     "추워요",
+     "추웠어요",
+     "춥어요",
+     "추워"
+    ],
+    "answer": "추워요"
+   },
+   {
+    "id": 23,
+    "question": "Particle indicating Subject?",
+    "options": [
+     "은/는",
+     "이/가",
+     "을/를",
+     "에"
+    ],
+    "answer": "이/가"
+   },
+   {
+    "id": 24,
+    "question": "Particle indicating Object?",
+    "options": [
+     "이/가",
+     "은/는",
+     "을/를",
+     "의"
+    ],
+    "answer": "을/를"
+   },
+   {
+    "id": 25,
+    "question": "Particle for static Location/Time?",
+    "options": [
+     "에서",
+     "에",
+     "로",
+     "까지"
+    ],
+    "answer": "에"
+   },
+   {
+    "id": 26,
+    "question": "Particle for 'Action Location'?",
+    "options": [
+     "에",
+     "에서",
+     "부터",
+     "에게"
+    ],
+    "answer": "에서"
+   },
+   {
+    "id": 27,
+    "question": "Translate: 'I also eat.'",
+    "options": [
+     "저도 먹어요.",
+     "저는 먹어요.",
+     "저가 먹어요.",
+     "저를 먹어요."
+    ],
+    "answer": "저도 먹어요."
+   },
+   {
+    "id": 28,
+    "question": "What does '(으)로' indicate?",
+    "options": [
+     "Subject",
+     "Topic",
+     "Direction/Means",
+     "Possession"
+    ],
+    "answer": "Direction/Means"
+   },
+   {
+    "id": 29,
+    "question": "Particle pair for 'From A to B' (Logic)",
+    "options": [
+     "부터-까지",
+     "에서-까지",
+     "은-는",
+     "이-가"
+    ],
+    "answer": "에서-까지"
+   },
+   {
+    "id": 30,
+    "question": "Meaning of '안' (Location)?",
+    "options": [
+     "Inside",
+     "Outside",
+     "Front",
+     "Back"
+    ],
+    "answer": "Inside"
+   }
+  ],
+  "finalQuiz2": [
+   {
+    "id": 1,
+    "question": "Which vowel is 'yu'?",
+    "options": [
+     "ㅠ",
+     "ㅜ",
+     "ㅛ",
+     "ㅗ"
+    ],
+    "answer": "ㅠ"
+   },
+   {
+    "id": 2,
+    "question": "Which consonant is 's'?",
+    "options": [
+     "ㅅ",
+     "ㅈ",
+     "ㅎ",
+     "ㅁ"
+    ],
+    "answer": "ㅅ"
+   },
+   {
+    "id": 3,
+    "question": "Native number for '5'?",
+    "options": [
+     "오",
+     "다섯",
+     "여섯",
+     "넷"
+    ],
+    "answer": "다섯"
+   },
+   {
+    "id": 4,
+    "question": "Sino-Korean '12'?",
+    "options": [
+     "열둘",
+     "십이",
+     "이십",
+     "두"
+    ],
+    "answer": "십이"
+   },
+   {
+    "id": 5,
+    "question": "Counter for people?",
+    "options": [
+     "개",
+     "마리",
+     "명",
+     "장"
+    ],
+    "answer": "명"
+   },
+   {
+    "id": 6,
+    "question": "Time: '1:50'?",
+    "options": [
+     "한 시 오십 분",
+     "일 시 오십 분",
+     "한 시 오십",
+     "일 시 오십"
+    ],
+    "answer": "한 시 오십 분"
+   },
+   {
+    "id": 7,
+    "question": "Native number for '10'?",
+    "options": [
+     "십",
+     "열",
+     "스물",
+     "서른"
+    ],
+    "answer": "열"
+   },
+   {
+    "id": 8,
+    "question": "Korean for 'Left'?",
+    "options": [
+     "오른쪽",
+     "왼쪽",
+     "위",
+     "아래"
+    ],
+    "answer": "왼쪽"
+   },
+   {
+    "id": 9,
+    "question": "Korean for 'Front'?",
+    "options": [
+     "뒤",
+     "옆",
+     "앞",
+     "안"
+    ],
+    "answer": "앞"
+   },
+   {
+    "id": 10,
+    "question": "Meaning of '오늘'?",
+    "options": [
+     "Today",
+     "Yesterday",
+     "Tomorrow",
+     "Now"
+    ],
+    "answer": "Today"
+   },
+   {
+    "id": 11,
+    "question": "'Friday' in Korean?",
+    "options": [
+     "금요일",
+     "목요일",
+     "토요일",
+     "월요일"
+    ],
+    "answer": "금요일"
+   },
+   {
+    "id": 12,
+    "question": "Translate 'Last month'.",
+    "options": [
+     "지난달",
+     "이번 달",
+     "다음 달",
+     "매달"
+    ],
+    "answer": "지난달"
+   },
+   {
+    "id": 13,
+    "question": "Meaning of '오다'?",
+    "options": [
+     "To go",
+     "To come",
+     "To see",
+     "To buy"
+    ],
+    "answer": "To come"
+   },
+   {
+    "id": 14,
+    "question": "Present tense of '살다' (to live)?",
+    "options": [
+     "살아요",
+     "살었어요",
+     "살 거예요",
+     "사라요"
+    ],
+    "answer": "살아요"
+   },
+   {
+    "id": 15,
+    "question": "Past tense of '만나다' (to meet)?",
+    "options": [
+     "만나요",
+     "만났어요",
+     "만날 거예요",
+     "만나"
+    ],
+    "answer": "만났어요"
+   },
+   {
+    "id": 16,
+    "question": "Meaning of '배우다'?",
+    "options": [
+     "To teach",
+     "To learn",
+     "To study",
+     "To read"
+    ],
+    "answer": "To learn"
+   },
+   {
+    "id": 17,
+    "question": "'듣다' (to listen) - Present Tense?",
+    "options": [
+     "듣어요",
+     "들어요",
+     "들었어요",
+     "듣고"
+    ],
+    "answer": "들어요"
+   },
+   {
+    "id": 18,
+    "question": "Future tense of '먹다'?",
+    "options": [
+     "먹어요",
+     "먹었어요",
+     "먹을 거예요",
+     "먹겠어요"
+    ],
+    "answer": "먹을 거예요"
+   },
+   {
+    "id": 19,
+    "question": "Meaning of '재미있다'?",
+    "options": [
+     "To be fun",
+     "To be boring",
+     "To be sad",
+     "To be happy"
+    ],
+    "answer": "To be fun"
+   },
+   {
+    "id": 20,
+    "question": "Meaning of '바쁘다'?",
+    "options": [
+     "To be free",
+     "To be busy",
+     "To be fast",
+     "To be slow"
+    ],
+    "answer": "To be busy"
+   },
+   {
+    "id": 21,
+    "question": "'예쁘다' (to be pretty) - Past Tense?",
+    "options": [
+     "예뻐요",
+     "예뻤어요",
+     "예쁠 거예요",
+     "예쁘고"
+    ],
+    "answer": "예뻤어요"
+   },
+   {
+    "id": 22,
+    "question": "Meaning of '사랑하다'?",
+    "options": [
+     "To like",
+     "To love",
+     "To hate",
+     "To know"
+    ],
+    "answer": "To love"
+   },
+   {
+    "id": 23,
+    "question": "Topic Particle?",
+    "options": [
+     "은/는",
+     "이/가",
+     "을/를",
+     "의"
+    ],
+    "answer": "은/는"
+   },
+   {
+    "id": 24,
+    "question": "Possessive Particle?",
+    "options": [
+     "의",
+     "에",
+     "에서",
+     "으로"
+    ],
+    "answer": "의"
+   },
+   {
+    "id": 25,
+    "question": "'Also/Too' particle?",
+    "options": [
+     "만",
+     "도",
+     "까지",
+     "이나"
+    ],
+    "answer": "도"
+   },
+   {
+    "id": 26,
+    "question": "Translate: 'School' + 'Direction Particle' (Towards School)",
+    "options": [
+     "학교로",
+     "학교에서",
+     "학교가",
+     "학교를"
+    ],
+    "answer": "학교로"
+   },
+   {
+    "id": 27,
+    "question": "Correct particle for Object '밥' (Rice)?",
+    "options": [
+     "밥이",
+     "밥은",
+     "밥을",
+     "밥에"
+    ],
+    "answer": "밥을"
+   },
+   {
+    "id": 28,
+    "question": "'From 9 o'clock'?",
+    "options": [
+     "9시까지",
+     "9시부터",
+     "9시에",
+     "9시에서"
+    ],
+    "answer": "9시부터"
+   },
+   {
+    "id": 29,
+    "question": "Meaning of '밖'?",
+    "options": [
+     "Inside",
+     "Outside",
+     "Left",
+     "Right"
+    ],
+    "answer": "Outside"
+   },
+   {
+    "id": 30,
+    "question": "Subject particle usage: 'Who is going?'",
+    "options": [
+     "누가 가요?",
+     "누구는 가요?",
+     "누구를 가요?",
+     "누구 가요?"
+    ],
+    "answer": "누가 가요?"
+   }
+  ]
+ },
+ "conversations": [
+  {
+   "id": "cafe",
+   "title": "Ordering at a Coffee Shop",
+   "audio": "/audio/cafeorder_slow.wav",
+   "dialogue": [
+    {
+     "speaker": "Speaker 1",
+     "kor": "어서 오세요! 무엇을 도와드릴까요?",
+     "eng": "Welcome! How can I help you?"
+    },
+    {
+     "speaker": "Speaker 2",
+     "kor": "따뜻한 레몬티 한 잔 마시고 싶어요.",
+     "eng": "I want to drink a cup of warm lemon tea."
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "죄송합니다. 오늘은 레몬티가 없어요. 다른 거 드릴까요?",
+     "eng": "Sorry. We don't have lemon tea today. Shall I give you something else?"
+    },
+    {
+     "speaker": "Speaker 2",
+     "kor": "그럼 아이스 아메리카노는 있어요?",
+     "eng": "Then, is there iced americano?"
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "네, 있습니다. 오천 원입니다.",
+     "eng": "Yes, we have it. It is 5,000 won."
+    },
+    {
+     "speaker": "Speaker 2",
+     "kor": "카드로 계산해 주세요.",
+     "eng": "Please charge it to my card."
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "네, 감사합니다!",
+     "eng": "Yes, thank you!"
+    }
+   ],
+   "quiz": {
+    "question": "무엇을 마시고 싶어요?",
+    "options": [
+     "아이스 아메리카노",
+     "따뜻한 레몬티",
+     "뜨거운 커피",
+     "물"
+    ],
+    "answer": "따뜻한 레몬티"
+   }
+  },
+  {
+   "id": "busan",
+   "title": "Direction to Busan",
+   "audio": "/audio/transportdirection_slow.wav",
+   "dialogue": [
+    {
+     "speaker": "Speaker 1",
+     "kor": "저기요, 부산에 가고 싶어요. 어떻게 가요?",
+     "eng": "Excuse me, I want to go to Busan. How do I go?"
+    },
+    {
+     "speaker": "Speaker 2",
+     "kor": "버스나 KTX를 타세요. 버스는 네 시간, KTX는 두 시간 반 걸려요.",
+     "eng": "Take the bus or KTX. Bus takes 4 hours, KTX takes 2.5 hours."
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "KTX 역은 어디에 있어요?",
+     "eng": "Where is the KTX station?"
+    },
+    {
+     "speaker": "Speaker 2",
+     "kor": "병원 앞에서 왼쪽으로 가세요. 그럼 오른쪽에 역이 있어요.",
+     "eng": "Go left in front of the hospital. Then the station is on the right."
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "정말 감사합니다!",
+     "eng": "Thank you very much!"
+    }
+   ],
+   "quiz": {
+    "question": "버스는 몇 시간 걸려요?",
+    "options": [
+     "2시간",
+     "2시간 반",
+     "4시간",
+     "5시간"
+    ],
+    "answer": "4시간"
+   }
+  },
+  {
+   "id": "ticket",
+   "title": "Buying a Ticket",
+   "audio": "/audio/buyingticket_slow.wav",
+   "dialogue": [
+    {
+     "speaker": "Speaker 1",
+     "kor": "안녕하세요. 부산행 티켓 한 장 주세요.",
+     "eng": "Hello. Give me one ticket for Busan, please."
+    },
+    {
+     "speaker": "Speaker 3",
+     "kor": "네, 오만 구천 원입니다.",
+     "eng": "Yes, it is 59,000 won."
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "여기 있습니다. 기차를 어디에서 타요?",
+     "eng": "Here it is. Where do I take the train?"
+    },
+    {
+     "speaker": "Speaker 3",
+     "kor": "3번으로 가세요. 지금 시간이 없어요. 하지만 뛰지 마세요!",
+     "eng": "Go to number 3. There is no time now. But please don't run!"
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "네, 알겠습니다.",
+     "eng": "Yes, I understand."
+    }
+   ],
+   "quiz": {
+    "question": "티켓은 얼마예요?",
+    "options": [
+     "50,000원",
+     "59,000원",
+     "30,000원",
+     "10,000원"
+    ],
+    "answer": "59,000원"
+   }
+  },
+  {
+   "id": "shopping",
+   "title": "Shopping",
+   "audio": "/audio/shopping_slow.wav",
+   "dialogue": [
+    {
+     "speaker": "Speaker 2",
+     "kor": "안녕하세요. 구두를 사고 싶어요.",
+     "eng": "Hello. I want to buy shoes."
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "네, 이 구두 어때요? 아주 인기가 많아요.",
+     "eng": "Yes, how about these shoes? They are very popular."
+    },
+    {
+     "speaker": "Speaker 2",
+     "kor": "예쁘지만 너무 비싸요. 혹시 치마도 볼 수 있어요?",
+     "eng": "They are pretty but too expensive. By any chance, can I see a skirt too?"
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "네, 이쪽으로 오세요. 이 치마는 예쁘고 아주 싸요. 한번 입어 보세요.",
+     "eng": "Yes, come this way. This skirt is pretty and very cheap. Please try wearing it."
+    },
+    {
+     "speaker": "Speaker 2",
+     "kor": "와, 정말 마음에 들어요! 얼마예요?",
+     "eng": "Wow, I really like it! How much is it?"
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "삼만 원입니다.",
+     "eng": "It is 30,000 won."
+    },
+    {
+     "speaker": "Speaker 2",
+     "kor": "좋아요. 여기 카드로 드릴게요.",
+     "eng": "Great. I'll give you my card here."
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "감사합니다. 안녕히 가세요!",
+     "eng": "Thank you. Goodbye!"
+    }
+   ],
+   "quiz": {
+    "question": "무엇을 사요?",
+    "options": [
+     "구두",
+     "치마",
+     "바지",
+     "티셔츠"
+    ],
+    "answer": "치마"
+   }
+  },
+  {
+   "id": "doctor",
+   "title": "Doctor Visit",
+   "audio": "/audio/doctorvisit_slow.wav",
+   "dialogue": [
+    {
+     "speaker": "Speaker 1",
+     "kor": "어디가 아프세요?",
+     "eng": "Where does it hurt?"
+    },
+    {
+     "speaker": "Speaker 2",
+     "kor": "머리가 아프고 열이 나요.",
+     "eng": "My head hurts and I have a fever."
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "왜 아픈 것 같아요?",
+     "eng": "Why do you think you are sick?"
+    },
+    {
+     "speaker": "Speaker 2",
+     "kor": "어제 찬물을 너무 많이 마시고 싶어서 많이 마셨어요.",
+     "eng": "Yesterday I wanted to drink a lot of cold water, so I drank a lot."
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "약을 처방해 줄게요. 오늘은 너무 많이 걷지 마세요.",
+     "eng": "I'll prescribe medicine. Please don't walk too much today."
+    },
+    {
+     "speaker": "Speaker 2",
+     "kor": "네, 의사 선생님.",
+     "eng": "Yes, doctor."
+    },
+    {
+     "speaker": "Speaker 1",
+     "kor": "집에서 푹 쉬세요. 빨리 나으세요!",
+     "eng": "Please rest well at home. Get well soon!"
+    }
+   ],
+   "quiz": {
+    "question": "어디가 아파요?",
+    "options": [
+     "머리",
+     "배",
+     "다리",
+     "팔"
+    ],
+    "answer": "머리"
+   }
+  }
+ ]
+}
