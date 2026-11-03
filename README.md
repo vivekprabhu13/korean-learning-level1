@@ -155,6 +155,15 @@ korean-learning-level1/
 
 ---
 
+## Deployment
+The live demo runs on Netlify.
+
+- Build command: `npm run build`
+- Publish directory: `dist`
+- Node version: 18+
+
+Any static host works (Netlify, Vercel, GitHub Pages, Cloudflare Pages).
+
 ## 📜 Available Scripts
 
 | Script | Command | Description |
@@ -171,6 +180,17 @@ korean-learning-level1/
 This application uses the standard browser **Web Speech API** (`window.speechSynthesis`) configured for the `ko-KR` locale. 
 - For the best pronunciation experience, ensure your operating system or browser has Korean voice packs installed (e.g., Google 한국어 voice on Chrome or Microsoft Heami on Windows/Edge).
 - Audio is muted or gracefully skipped if speech synthesis is unsupported in the client browser.
+
+## Privacy and data
+- No account, backend or API key is required.
+- Quiz scores and progress are stored only in your browser's `localStorage`. Clearing site data resets them.
+- Audio uses the browser's built-in Web Speech API. No audio is sent to any service by this app.
+
+## Roadmap
+- [ ] Spaced-repetition review for vocabulary and verbs
+- [ ] AI conversation partner at Level 1 difficulty (bring-your-own API key)
+- [ ] Unit tests for progress tracking and quiz scoring
+- [ ] Level 2 content
 
 ---
 
